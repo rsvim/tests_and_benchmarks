@@ -1,2 +1,1 @@
-# tests
-RSVIM tests.
+# RSVIM tests
