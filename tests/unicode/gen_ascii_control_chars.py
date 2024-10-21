@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 # Generate test file: ascii-control-chars.txt
+# See: https://www.ascii-code.com/
 
 control_chars = [i for i in range(32)]
 
