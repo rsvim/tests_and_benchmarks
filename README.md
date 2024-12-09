@@ -1,10 +1,8 @@
 # RSVIM Tests and Benchmarks
 
-This repository contains many resources to do the testing and benchmarking for RSVIM editor.
+This repository contains resources for tests and benchmarks for the RSVIM editor.
 
-For the resources themself, they are developed with python scripts.
-
-To develop the python scripts, please setup environment:
+There are some python scripts and text files for testing/benchmarking the editor. To develop the python scripts, please setup environment:
 
 - [Python 3](https://www.python.org/) with version 3.9+.
 - Install dependencies with `python venv`:
