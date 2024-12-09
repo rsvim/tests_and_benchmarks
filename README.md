@@ -16,15 +16,15 @@ Requirements:
 
 ## Setup
 
-To setup the tests and benches, please first clone [rsvim](https://github.com/rsvim/rsvim):
+1. To setup the tests and benches, please first clone [rsvim](https://github.com/rsvim/rsvim):
 
-```bash
-git clone https://github.com/rsvim/rsvim
-```
+   ```bash
+   git clone https://github.com/rsvim/rsvim
+   ```
 
-Then `cd` into the `rsvim` project, then clone this [tests_and_benchmarks](https://github.com/rsvim/tests_and_benchmarks):
+2. Then `cd` into the `rsvim` project, then clone this [tests_and_benchmarks](https://github.com/rsvim/tests_and_benchmarks):
 
-```bash
-cd ./rsvim
-git clone --depth=1 https://github.com/rsvim/tests_and_benchmarks
-```
+   ```bash
+   cd ./rsvim
+   git clone --depth=1 https://github.com/rsvim/tests_and_benchmarks
+   ```
