@@ -28,3 +28,13 @@ Requirements:
    cd ./rsvim
    git clone --depth=1 https://github.com/rsvim/tests_and_benchmarks
    ```
+
+3. Or you could clone this project under the same directory with `rsvim`, and create a symlink for it:
+
+   ```bash
+   # Don't have to `cd ./rsvim`
+   git clone --depth=1 https://github.com/rsvim/tests_and_benchmarks
+
+   # Create symlink
+   ln -s $PWD/tests_and_benchmarks $PWD/rsvim/tests_and_benchmarks
+   ```
