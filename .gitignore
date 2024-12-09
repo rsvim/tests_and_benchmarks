@@ -1,9 +1,5 @@
-# big files
-
-MIMXRT1176_cm7.h
-dcn_3_2_0_sh_mask.h
-
+# Logs
 *.log
 
-# python venv
+# Python venv
 venv
